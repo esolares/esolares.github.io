@@ -138,3 +138,15 @@ awards:
     summary: |
       Research on maize RNA secondary structures featured in press releases and national highlights.
     icon: hero/star
+  - title: NSF Graduate Research Fellowship (GRFP)
+    awarder: National Science Foundation
+    date: "2017-09-01"
+    summary: |
+      Three-year fellowship supporting graduate research in computational biology and genomics.
+    icon: hero/academic-cap
+  - title: NSF Bridge to the Doctorate Fellowship (LSAMP CAMP)
+    awarder: National Science Foundation
+    date: "2016-09-01"
+    summary: |
+      Fellowship supporting first-year doctoral studies through the Louis Stokes Alliances for Minority Participation (LSAMP) California Alliance for Minority Participation (CAMP) program.
+    icon: hero/academic-cap
