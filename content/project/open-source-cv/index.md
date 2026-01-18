@@ -1,7 +1,7 @@
 ---
 title: Open-Source Computer Vision Framework
 date: 2024-06-01
-summary: Democratizing AI for agriculture by developing accessible computer vision tools for non-expert users.
+summary: Democratizing AI by developing accessible computer vision tools for non-expert users.
 tags:
   - Machine Learning
   - Computer Vision

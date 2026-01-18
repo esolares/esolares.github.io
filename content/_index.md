@@ -47,10 +47,10 @@ sections:
         I leverage machine learning, computer vision, and high-performance computing to analyze large-scale genomic datasets and develop predictive models for agriculture and conservation. My work spans five key areas:
 
         - **AI for Climate-Resilient Agriculture** - Developing ML tools for crop improvement and sustainable farming
+        - **Conservation Automation** - AI-assisted approaches for species rescue and aquaculture
+        - **Open-Source Tools** - Democratizing AI and Bioinformatics for the research community
         - **Evolutionary Genomics** - Understanding adaptation through comparative and population genomics
         - **RNA Biology & Epigenomics** - Discovering regulatory mechanisms in plant genomes
-        - **Conservation Genomics** - AI-assisted approaches for species rescue and aquaculture
-        - **Open-Source Tools** - Democratizing bioinformatics for the research community
 
         Interested in collaboration? Please reach out!
     design:
