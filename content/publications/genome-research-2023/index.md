@@ -25,6 +25,7 @@ tags:
 - Maize
 - Epigenetics
 featured: true
+weight: 2
 
 links:
   - name: Paper

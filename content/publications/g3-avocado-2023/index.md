@@ -21,6 +21,7 @@ tags:
 - Avocado
 - Crops
 featured: true
+weight: 3
 
 links:
   - name: Paper

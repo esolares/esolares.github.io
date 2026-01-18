@@ -22,7 +22,7 @@ tags:
 - Methods
 - Drosophila
 - Bioinformatics
-featured: true
+featured: false
 
 links:
   - name: Paper

@@ -23,6 +23,7 @@ tags:
 - AI
 - Methods
 featured: true
+weight: 1
 
 links:
   - name: Paper
