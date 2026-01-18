@@ -77,15 +77,6 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
     id: news
     content:
       title: Recent News
@@ -117,11 +108,11 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Featured Projects
+      title: Research Projects
       filters:
         folders:
           - project
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
       columns: 2

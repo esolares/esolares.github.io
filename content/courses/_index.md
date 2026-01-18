@@ -1,14 +1,7 @@
 ---
 title: Courses
-summary: My courses
+summary: Courses I teach at UC San Diego
 type: landing
-
-cascade:
-  - target:
-      path: '{/courses/*/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
 
 sections:
   - block: collection
@@ -16,13 +9,9 @@ sections:
     content:
       title: Courses
       filters:
-        tag: Course
-        kinds:
-          - section
+        folders:
+          - courses
     design:
-      view: article-grid
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
+      view: card
+      columns: 2
 ---
