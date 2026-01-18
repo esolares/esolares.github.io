@@ -1,6 +1,6 @@
 ---
 title: "CSE 150B: Introduction to AI - Search and Reasoning"
-date: 2026-09-15
+date: 2025-09-15
 summary: Undergraduate course covering search algorithms and logical reasoning in artificial intelligence.
 tags:
   - AI

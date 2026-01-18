@@ -1,6 +1,6 @@
 ---
 title: "CSE 29: Systems Programming and Software Tools"
-date: 2026-03-24
+date: 2025-03-24
 summary: Undergraduate course on systems programming concepts and essential software development tools.
 tags:
   - Systems Programming
