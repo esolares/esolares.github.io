@@ -104,7 +104,7 @@ work:
     date_start: 2021-09-01
     date_end: 2023-01-01
     summary: |
-      Mentors: Jeffrey Ross-Ibarra (Population Genomics) and Dipak Ghosal (Computer Science)
+      Mentors: Patrice Koehl (Computer Science) and Jeffrey Ross-Ibarra (Population Genomics)
       Fellowship includes $425,000 hiring incentive upon tenured faculty appointment.
 
 # Skills
