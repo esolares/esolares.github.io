@@ -17,7 +17,9 @@ bio: |
   I am a computational biologist and data scientist bridging artificial intelligence,
   evolutionary genomics, and climate-resilient agriculture. My research leverages
   cutting-edge machine learning and bioinformatics to address global food security
-  challenges in the face of rapid climate change.
+  challenges in the face of rapid climate change. With publications in high-impact
+  journals including Nature Plants, PNAS, and Genome Research (h-index: 7), I develop
+  tools and methods that advance both computational science and real-world applications.
 
 affiliations:
   - name: UC San Diego - CSE Department
@@ -76,7 +78,7 @@ experience:
     org: Informuta, Inc.
     start: 2024-12-01
     summary: |
-      Applying AI solutions to predicting and forecasting antimicrobial resistance.
+      Applying AI solutions to predict and forecast antimicrobial resistance.
   - role: UC President's Postdoctoral Fellow
     org: UC Davis
     start: 2021-09-01

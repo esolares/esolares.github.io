@@ -96,7 +96,7 @@ work:
     date_start: 2024-12-01
     date_end: ''
     summary: |
-      Applying AI solutions to real-world industry challenges.
+      Applying AI solutions to predict and forecast antimicrobial resistance.
   - position: UC President's Postdoctoral Fellow
     company_name: UC Davis
     company_url: https://ucdavis.edu/
@@ -181,11 +181,11 @@ awards:
 
 I am a Lecturer in Computer Science & Engineering and the Halicioglu Data Science Institute at UC San Diego. My research focuses on **harnessing AI and bioinformatics to ensure food security and species conservation** in the face of climate change.
 
-I leverage machine learning, computer vision, and high-performance computing to analyze large-scale genomic datasets and develop predictive models for agriculture and conservation. My work has been featured in publications including *Genome Research*, *G3: Genes|Genomes|Genetics*, and *PNAS*, with over 528 citations.
+I leverage machine learning, computer vision, and high-performance computing to analyze large-scale genomic datasets and develop predictive models for agriculture and conservation. My work has been published in high-impact journals including *Nature Plants*, *PNAS*, *Genome Research*, and *G3: Genes|Genomes|Genetics* (h-index: 7).
 
 **Current Projects:**
-- **AI-Assisted Sturgeon Sex Determination** ($465K active grant): Developing computer vision models to revolutionize sustainable aquaculture
-- **Maize RNA Secondary Structures**: Discovering novel regulatory mechanisms in crop genomes using supercomputing simulations
-- **Avocado Domestication Genomics**: Creating reference genomes and understanding crop evolution
+- **AI-Assisted Sturgeon Sex Determination** (active USDA NIFA grant): Developing computer vision models to revolutionize sustainable aquaculture
+- **Net-Zero Distributed Computing** (prototyping): Solar-powered edge computing for ecological monitoring
+- **Avocado AI-Directed Breeding** (active): Applying machine learning to accelerate crop improvement
 
 I am passionate about **open science**, **diversity in STEM**, and **mentoring the next generation** of computational biologists. As a first-generation college graduate and UC President's Fellow, I am committed to creating inclusive pathways for underrepresented students in data science and computational biology.

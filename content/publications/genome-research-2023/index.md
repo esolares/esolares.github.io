@@ -1,29 +1,33 @@
 ---
-title: "miRNA-like secondary structures in maize genes and transposable elements correlate with small RNAs, methylation, and expression"
+title: "miRNA-like secondary structures in maize (Zea mays) genes and transposable elements correlate with small RNAs, methylation, and expression"
 authors:
-- me
 - Galen T. Martin
+- me
 - Jeanelle Guardado-Mendez
 - Aline Muyle
 - Alexandros Bousios
 - Brandon S. Gaut
-date: "2023-07-01T00:00:00Z"
-publishDate: "2023-07-01T00:00:00Z"
+author_notes:
+- ""
+- "Co-first author"
+date: "2023-11-01T00:00:00Z"
+publishDate: "2023-11-01T00:00:00Z"
 
 publication_types: ["article-journal"]
 
 publication: "*Genome Research*"
 publication_short: "Genome Res"
 
-abstract: We discovered novel miRNA-like secondary structures in maize (Zea mays) genes and transposable elements that correlate with small RNA production, DNA methylation patterns, and gene expression levels. This breakthrough finding reveals previously unknown regulatory mechanisms controlling gene activity in one of the world's most important food crops.
+abstract: "We discovered novel miRNA-like secondary structures in maize (Zea mays) genes and transposable elements that correlate with small RNA production, DNA methylation patterns, and gene expression levels. This finding reveals previously unknown regulatory mechanisms controlling gene activity in one of the world's most important food crops."
 
-summary: Discovery of novel miRNA-like structures in maize genes correlating with small RNA production and epigenetic regulation.
+summary: "Co-first author discovery of novel miRNA-like structures in maize genes correlating with small RNA production and epigenetic regulation."
 
 tags:
 - Genomics
 - RNA Biology
 - Maize
 - Epigenetics
+- Small RNAs
 featured: true
 weight: 2
 
@@ -37,7 +41,7 @@ projects:
 slides: ""
 ---
 
-This research was featured in SDSC and ACCESS-CI press releases. The work demonstrates that RNA secondary structures play a functional role in triggering gene silencing in plants, providing new targets for crop improvement.
+This research was featured in **SDSC** and **ACCESS-CI** press releases. The work demonstrates that RNA secondary structures play a functional role in triggering gene silencing in plants, providing new targets for crop improvement.
 
 **Key Findings:**
 - RNA structures strongly associated with siRNA production
