@@ -1,6 +1,6 @@
 ---
 title: "DSC 232R: Big Data Analytics Using Spark"
-date: 2025-01-01
+date: 2026-01-05
 summary: Graduate course teaching distributed computing and machine learning at scale using Apache Spark.
 tags:
   - Data Science

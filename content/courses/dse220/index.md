@@ -1,6 +1,6 @@
 ---
 title: "DSE 220: Introduction to Machine Learning"
-date: 2025-01-04
+date: 2026-09-15
 summary: Graduate course providing foundations of machine learning for data science professionals.
 tags:
   - Machine Learning
