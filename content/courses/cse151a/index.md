@@ -1,6 +1,6 @@
 ---
 title: "CSE 151A: Machine Learning - Learning Algorithms"
-date: 2024-01-01
+date: 2025-01-05
 summary: Undergraduate course on machine learning algorithms and their applications.
 tags:
   - Machine Learning

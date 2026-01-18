@@ -1,6 +1,6 @@
 ---
-title: "MAS DSE 220: Introduction to Machine Learning"
-date: 2025-01-01
+title: "DSE 220: Introduction to Machine Learning"
+date: 2025-01-04
 summary: Graduate course providing foundations of machine learning for data science professionals.
 tags:
   - Machine Learning
@@ -10,7 +10,7 @@ tags:
 
 ## Course Overview
 
-**MAS DSE 220: Introduction to Machine Learning** is a graduate course in the Master of Advanced Study in Data Science & Engineering program at UC San Diego.
+**DSE 220: Introduction to Machine Learning** is a graduate course in the Data Science & Engineering program at UC San Diego.
 
 ## Topics Covered
 

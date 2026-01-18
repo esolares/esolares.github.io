@@ -1,6 +1,6 @@
 ---
-title: "CSE 150A: Introduction to AI - Probabilistic Learning"
-date: 2024-01-01
+title: "CSE 150A: Introduction to AI - Probabilistic Reasoning"
+date: 2025-01-02
 summary: Undergraduate course covering probabilistic approaches to artificial intelligence and machine learning.
 tags:
   - AI

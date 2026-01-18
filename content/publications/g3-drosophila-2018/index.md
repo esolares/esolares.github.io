@@ -22,7 +22,11 @@ tags:
 - Methods
 - Drosophila
 - Bioinformatics
-featured: false
+featured: true
+
+links:
+  - name: Paper
+    url: https://doi.org/10.1534/g3.118.200162
 
 projects:
   - drosophila-assembly

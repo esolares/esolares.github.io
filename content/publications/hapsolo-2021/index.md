@@ -25,7 +25,7 @@ tags:
 featured: true
 
 links:
-  - name: DOI
+  - name: Paper
     url: https://doi.org/10.1186/s12859-020-03939-y
 
 slides: ""

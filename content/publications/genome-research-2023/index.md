@@ -27,8 +27,8 @@ tags:
 featured: true
 
 links:
-  - type: source
-    url: https://genome.cshlp.org/
+  - name: Paper
+    url: https://doi.org/10.1101/gr.277459.122
 
 projects:
   - maize-rna

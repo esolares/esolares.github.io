@@ -23,6 +23,10 @@ tags:
 - Butterflies
 featured: false
 
+links:
+  - name: Paper
+    url: https://doi.org/10.1073/pnas.2301411120
+
 slides: ""
 ---
 

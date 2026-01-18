@@ -22,6 +22,10 @@ tags:
 - Crops
 featured: true
 
+links:
+  - name: Paper
+    url: https://doi.org/10.1093/g3journal/jkac323
+
 projects:
   - avocado-genome
 
