@@ -1,6 +1,6 @@
 ---
 title: "Joined Informuta, Inc. as Machine Learning Engineer"
-date: 2024-12-01
+date: 2024-10-23
 summary: New position applying AI to predict and forecast antimicrobial resistance.
 authors:
   - me
@@ -9,6 +9,7 @@ tags:
   - Industry
   - AI
   - Public Health
+  - AMR Resistance
 featured: false
 ---
 
