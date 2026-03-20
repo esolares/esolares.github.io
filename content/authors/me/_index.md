@@ -45,7 +45,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/ESB-AI-Lab
     label: GitHub
-  - icon: hero/globe-alt
+  - icon: brands/githubpages
     url: https://esb-ai-lab.github.io/
     label: GitHub
   - icon: brands/github
