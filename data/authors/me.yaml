@@ -31,14 +31,20 @@ links:
   - icon: at-symbol
     url: mailto:esolares@ucsd.edu
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/ESB-AI-Lab
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/solarese
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=uhDHFV4AAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3220-4927
+  - icon: brands/github
+    url: https://github.com/ESB-AI-Lab
+  - icon: hero/globe-alt
+    url: https://esb-ai-lab.github.io/
+    label: GitHub
+  - icon: brands/github
+    url: https://github.com/esolares
+    label: GitHub
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/solarese
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Edwin-Solares
 
