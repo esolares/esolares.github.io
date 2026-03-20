@@ -37,7 +37,7 @@ links:
     url: https://orcid.org/0000-0002-3220-4927
   - icon: brands/github
     url: https://github.com/ESB-AI-Lab
-  - icon: hero/globe-alt
+  - icon: brands/githubpages
     url: https://esb-ai-lab.github.io/
     label: GitHub
   - icon: brands/github
