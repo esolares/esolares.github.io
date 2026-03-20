@@ -84,7 +84,7 @@ work:
     company_name: UC San Diego - CSE & Halicioglu Data Science Institute
     company_url: https://ucsd.edu/
     company_logo: ''
-    date_start: 2023-01-01
+    date_start: 2023-09-01
     date_end: ''
     summary: |
       Teaching DSC 232R: Big Data Analytics Using Spark and CSE 150A: Intro to AI - Probabilistic Learning.
@@ -93,16 +93,24 @@ work:
     company_name: Informuta, Inc.
     company_url: ''
     company_logo: ''
-    date_start: 2024-12-01
+    date_start: 2024-10-23
     date_end: ''
     summary: |
       Applying AI solutions to predict and forecast antimicrobial resistance.
+  - position: Lecturer
+    company_name: UC Davis - Department of Computer Science
+    company_url: https://cs.ucdavis.edu/
+    company_logo: ''
+    date_start: 2022-10-01
+    date_end: ''
+    summary: |
+      Taught ECS 171: Introduction to Machine Learning and ECS 32A: Introduction to Programming.
   - position: UC President's Postdoctoral Fellow
     company_name: UC Davis
     company_url: https://ucdavis.edu/
     company_logo: ''
     date_start: 2021-09-01
-    date_end: 2023-01-01
+    date_end: 2023-09-01
     summary: |
       Mentors: Patrice Koehl (Computer Science) and Jeffrey Ross-Ibarra (Population Genomics)
       Fellowship includes $425,000 hiring incentive upon tenured faculty appointment.
