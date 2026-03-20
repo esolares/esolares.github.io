@@ -45,6 +45,12 @@ profiles:
   - icon: brands/github
     url: https://github.com/ESB-AI-Lab
     label: GitHub
+  - icon: hero/globe-alt
+    url: https://esb-ai-lab.github.io/
+    label: GitHub
+  - icon: brands/github
+    url: https://github.com/esolares
+    label: GitHub
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/solarese
     label: LinkedIn
