@@ -10,8 +10,7 @@ tags:
   - Sustainability
 featured: true
 links:
-  - icon: github
-    icon_pack: fab
+  - icon: globe-alt
     name: ESB-AI-Lab
     url: https://github.com/ESB-AI-Lab
 ---
