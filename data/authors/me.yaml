@@ -80,11 +80,22 @@ experience:
     summary: |
       Teaching DSC 232R: Big Data Analytics Using Spark and CSE 150A: Intro to AI.
       Forging a Sustainable Future: Harnessing Bioinformatics and AI to Ensure Food Security and Species Rescue in the Face of a Changing Climate.
+  - role: Executive Director
+    org: ESB AI Lab Corporation
+    start: 2026-05-01
+    summary: |
+      501(c)(3) nonprofit advancing research in artificial intelligence, machine learning, and computational biology for the public benefit.
+  - role: President & CEO
+    org: EdgeConsults, LLC
+    start: 2026-05-06
+    summary: |
+      Independent consulting in bioinformatics, genomics, and applied AI/ML for industry, university researchers and federal programs.
   - role: Machine Learning Engineer
     org: Informuta, Inc.
     start: 2024-12-01
+    end: 2026-05-06
     summary: |
-      Applying AI solutions to predict and forecast antimicrobial resistance.
+      Applied AI solutions to predict and forecast antimicrobial resistance.
   - role: UC President's Postdoctoral Fellow
     org: UC Davis
     start: 2021-09-01

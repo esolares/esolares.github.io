@@ -95,20 +95,36 @@ work:
     summary: |
       Teaching DSC 232R: Big Data Analytics Using Spark and CSE 150A: Intro to AI - Probabilistic Learning.
       Conducting research in AI for climate-resilient agriculture and computational genomics.
+  - position: Executive Director
+    company_name: ESB AI Lab Corporation
+    company_url: https://esbailab.org
+    company_logo: ''
+    date_start: 2026-05-01
+    date_end: ''
+    summary: |
+      501(c)(3) nonprofit advancing research in artificial intelligence, machine learning, and computational biology for the public benefit.
+  - position: President & CEO
+    company_name: EdgeConsults, LLC
+    company_url: https://edgeconsults.com
+    company_logo: ''
+    date_start: 2026-05-06
+    date_end: ''
+    summary: |
+      Independent consulting in bioinformatics, genomics, and applied AI/ML for industry, university researchers and federal programs.
   - position: Machine Learning Engineer
     company_name: Informuta, Inc.
     company_url: ''
     company_logo: ''
     date_start: 2024-10-23
-    date_end: ''
+    date_end: 2026-05-06
     summary: |
-      Applying AI solutions to predict and forecast antimicrobial resistance.
+      Applied AI solutions to predict and forecast antimicrobial resistance.
   - position: Lecturer
     company_name: UC Davis - Department of Computer Science
     company_url: https://cs.ucdavis.edu/
     company_logo: ''
     date_start: 2022-10-01
-    date_end: ''
+    date_end: 2023-09-01
     summary: |
       Taught ECS 171: Introduction to Machine Learning and ECS 32A: Introduction to Programming.
   - position: UC President's Postdoctoral Fellow
